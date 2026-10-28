@@ -1,0 +1,12 @@
+{
+  "name": "School Saathi — Govt. Sen. Sec. School Asa Khera",
+  "short_name": "School Saathi",
+  "description": "School management and result software for Govt. Sen. Sec. School Asa Khera",
+  "lang": "hi-IN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#17324d",
+  "icons": []
+}
